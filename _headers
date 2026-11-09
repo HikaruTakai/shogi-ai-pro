@@ -1,0 +1,5 @@
+/* Netlify headers: required by the multithread-capable Emscripten WASM build. */
+/*
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+*/
